@@ -6,7 +6,14 @@ Tenho 21 anos e moro em São Luis do Maranhão, conclui o ensino médio e procur
 
 Hoje sou técnico de informática, freelancer em Front-end e estou concluindo minha faculdade de S.I! Além disso tudo, um amante da tecnologia🙈!
 
-<p align="left">   
+<p align="left">
+    <a href="https://dayronti.github.io/BrunoDayron/">
+        <img 
+            alt="Meu Site" 
+            title="Dá uma espiada! 👀" 
+            src="https://img.shields.io/static/v1?message=meu site&label=&color=FE8001&logoColor=white&labelColor=&style=for-the-badge"
+        />
+    </a>   
     <a src="https://discord.com/channels/@Dayrozin🔥" target="_blank">
         <img 
             alt="Meu Discord" 
@@ -19,13 +26,6 @@ Hoje sou técnico de informática, freelancer em Front-end e estou concluindo mi
             alt="Meu Linkedin" 
             title="Me siga no linkedin!" 
             src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge"
-        />
-    </a>
-    <a href="https://gmail.com/brunodayron8@gmail.com">
-        <img 
-            alt="Meu Site" 
-            title="Dá uma espiada! 👀" 
-            src="[https://img.shields.io/static/v1?message=email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge](https://dayronti.github.io/BrunoDayron/)"
         />
     </a>
     <a href="https://github.com/DayronTi?tab=repositories&sort=stargazers">
