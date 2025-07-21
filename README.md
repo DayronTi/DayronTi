@@ -11,7 +11,7 @@ Hoje sou técnico de informática, freelancer em Front-end e estou concluindo mi
         <img 
             alt="Meu Site" 
             title="Dá uma espiada! 👀" 
-            src="https://img.shields.io/static/v1?message=meu site&label=&color=FE8001&logoColor=white&labelColor=&style=for-the-badge"
+            src="https://img.shields.io/static/v1?message=portifolio&label=&color=FE8001&logoColor=white&labelColor=&style=for-the-badge"
         />
     </a>   
     <a src="https://discord.com/channels/@Dayrozin🔥" target="_blank">
