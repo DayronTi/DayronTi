@@ -9,23 +9,23 @@ Hoje sou técnico de informática, freelancer em Front-end e estou concluindo mi
 <p align="left">   
     <a src="https://discord.com/channels/@Dayrozin🔥" target="_blank">
         <img 
-            alt="Meu Linkedin" 
-            title="Me siga no linkedin" 
+            alt="Meu Discord" 
+            title="Me siga no Discord!" 
             src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
         />
     </a>
     <a href="https://www.linkedin.com/in/bruno-dayron-510028240/" target="_blank">
         <img 
             alt="Meu Linkedin" 
-            title="Me siga no linkedin" 
+            title="Me siga no linkedin!" 
             src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge"
         />
     </a>
     <a href="https://gmail.com/brunodayron8@gmail.com">
         <img 
-            alt="Meu E-mail" 
-            title="Me mande uma mensagem" 
-            src="https://img.shields.io/static/v1?message=email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+            alt="Meu Site" 
+            title="Dá uma espiada! 👀" 
+            src="[https://img.shields.io/static/v1?message=email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge](https://dayronti.github.io/BrunoDayron/)"
         />
     </a>
     <a href="https://github.com/DayronTi?tab=repositories&sort=stargazers">
