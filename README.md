@@ -7,7 +7,7 @@ Tenho 21 anos e moro em São Luis do Maranhão, conclui o ensino médio e procur
 Hoje sou técnico de informática, freelancer em Front-end e estou concluindo minha faculdade de S.I! Além disso tudo, um amante da tecnologia🙈!
 
 <p align="left">
-    <a href="https://dayronti.github.io/BrunoDayron/">
+    <a href="dayronti.github.io/BrunoDayron/">
         <img 
             alt="Meu Site" 
             title="Dá uma espiada! 👀" 
